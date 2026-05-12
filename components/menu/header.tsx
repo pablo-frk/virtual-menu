@@ -15,7 +15,7 @@ export function Header() {
                     </div>
                     <div className="text-center">
                         <h1 className="text-xl font-bold text-foreground">
-                            Cacau Show
+                            Cacau Show - Inhambupe
                         </h1>
                         <p className="text-xs text-muted-foreground">
                             Cardápio Digital
